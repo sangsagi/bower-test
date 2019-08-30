@@ -1,0 +1,9 @@
+{
+  "name": "axios",
+  "_source": "nexus+http://repo.healthhub.kr/repository/bower/axios",
+  "_target": "^v0.19.0",
+  "_release": "v0.19.0",
+  "version": "v0.19.0",
+  "_originalSource": "axios",
+  "_direct": true
+}
