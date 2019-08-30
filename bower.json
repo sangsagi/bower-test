@@ -1,0 +1,21 @@
+{
+  "name": "bower-test",
+  "homepage": "https://github.com/sangseok-healthhub/bower-test",
+  "authors": [
+    "sangseok.oh <sangseok@healthhub.kr>"
+  ],
+  "description": "",
+  "main": "src/prefetch.js",
+  "keywords": [
+    "prefetch"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

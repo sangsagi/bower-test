@@ -1,0 +1,14 @@
+{
+    "nexus": {
+        "username": "sangseok",
+        "password": "dhtkdtjr!@"
+    },
+    "registry": {
+        "register": "http://repo.healthhub.kr/repository/bower-private/",
+        "search": [
+                "http://repo.healthhub.kr/repository/bower/",
+                "https://bower.herokuapp.com"
+            ]
+    },
+    "resolvers" : [ "bower-nexus3-resolver" ]
+}
